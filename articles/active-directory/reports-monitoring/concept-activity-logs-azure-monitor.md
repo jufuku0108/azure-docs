@@ -78,7 +78,7 @@ The following table contains a cost estimate of, depending on the size of the te
 | Audit | 100,000 | 1.5&nbsp;million | 90 GB | $1.93 | $23.12 |
 | Audit | 1,000 | 15,000 | 900 MB | $0.02 | $0.24 |
 | Sign-ins | 1,000 | 34,800 | 4 GB | $0.13 | $1.56 |
-| Sign-ins | 100,000 | 15&nbsp;million | 1.7 TB | $35.41 | $424.92 |
+| Sign-ins | 100,000 | 3.48&nbsp;million | 1.7 TB | $35.41 | $424.92 |
  
 
 
